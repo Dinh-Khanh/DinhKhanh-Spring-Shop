@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/tomcat8-config" deployDir="wtpwebapps" hostname="localhost" id="tomcat8" name="tomcat8" runtime-id="apache-tomcat-8.0.36" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="my-shop-backend::org.eclipse.jst.jee.server:my-shop-backend::jst.web::2.5"/>
+  </server>
+</servers>

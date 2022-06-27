@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\89492876.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3209068172.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3675671114.index
+\my-shop-backend\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\589821966.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3744792627.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\127132091.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2739580089.index
+\jdbc-servlet-jsp\src\main\java
+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1866054553.index
+\jdbc-servlet-jsp\src\main\java

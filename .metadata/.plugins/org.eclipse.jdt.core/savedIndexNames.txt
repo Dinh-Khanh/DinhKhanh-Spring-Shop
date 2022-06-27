@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+E:\DATA\TuHocIT\ProjectShop\.metadata\.plugins\org.eclipse.jdt.core
+1024446143.index
+3674797595.index
+1079524478.index
+123524342.index
+2756958204.index
+1662458680.index
+925660069.index
+4099031461.index
+1544692091.index
+526658995.index
+3345170073.index
+3989589294.index
+4155989172.index
+413363277.index
+1865797976.index
+2594146884.index
+2498615617.index

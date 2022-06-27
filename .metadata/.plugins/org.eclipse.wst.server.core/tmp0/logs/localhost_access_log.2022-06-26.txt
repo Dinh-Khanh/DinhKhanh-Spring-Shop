@@ -1,0 +1,9 @@
+127.0.0.1 - - [26/Jun/2022:20:06:14 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:06:15 +0700] "GET /my-shop-backend/ HTTP/1.1" 404 1026
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:06:15 +0700] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:07:00 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 500 1538
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:07:04 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 500 1538
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:07:24 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 200 1102
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:07:24 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 200 1102
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:10:53 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 200 1102
+0:0:0:0:0:0:0:1 - - [26/Jun/2022:20:10:53 +0700] "GET /my-shop-backend/api-product?categoryid=1&categoryid=2 HTTP/1.1" 200 1102
